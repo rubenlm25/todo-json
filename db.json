@@ -1,16 +1,39 @@
 {
-  "posts":[
+  "tasks": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "text": "Complete online Javascript course",
+      "reminder": true
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "text": "Jog around the park 3x",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Read for 1 hour",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Pick up groceries",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Complete Todo App on Frontend Mentor",
+      "reminder": false
+    },
+    {
+      "text": "salut",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "Audrey",
+      "reminder": false,
+      "id": 8
     }
   ]
 }
